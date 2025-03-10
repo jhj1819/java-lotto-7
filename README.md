@@ -36,5 +36,5 @@
 
 - 리팩토링
 
-- 순서 다이어그램(활동막대 생략)
-![img.png](img.png)
+- 순서 다이어그램(활동막대 생략
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/jhj1819/java-racingcar-7?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)
